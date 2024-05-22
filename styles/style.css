@@ -142,7 +142,7 @@ body {
         width: auto;
     }
 
-    .rodape > br {
-        display: block;
+    .rodape > p {
+        font-size: 80%;
     }
 }
